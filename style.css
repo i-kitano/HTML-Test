@@ -3,6 +3,10 @@ h1 {
   color: red;
 }
 
+h2 {
+  color: blueviolet;
+}
+
 .input-sub {
   border-radius: 5px;
 }
