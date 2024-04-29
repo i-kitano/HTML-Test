@@ -1,0 +1,14 @@
+h1 {
+  font-size: 60px;
+  color: red;
+}
+
+.input-sub {
+  border-radius: 5px;
+}
+
+.input-sub:hover {
+  background-color: yellow;
+  font-size: 20px;
+  font-weight: bold;
+}
